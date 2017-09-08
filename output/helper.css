@@ -1,3 +1,19 @@
+.tr {
+	text-align: right;
+}
+
+.tl {
+	text-align: left;
+}
+
+.fl {
+	float: left;
+}
+
+.fr {
+	float: right;
+}
+
 .p0 {
 	padding: 0px;
 }
@@ -523,6 +539,22 @@
 }
 
 @media only screen and (min-width: 600px) and (max-width: 959px) {
+
+.tr-sm {
+	text-align: right;
+}
+
+.tl-sm {
+	text-align: left;
+}
+
+.fl-sm {
+	float: left;
+}
+
+.fr-sm {
+	float: right;
+}
 
 .p0-sm {
 	padding: 0px;
@@ -1052,6 +1084,22 @@
 
 @media only screen and (min-width: 600px) {
 
+.tr-gt-xs {
+	text-align: right;
+}
+
+.tl-gt-xs {
+	text-align: left;
+}
+
+.fl-gt-xs {
+	float: left;
+}
+
+.fr-gt-xs {
+	float: right;
+}
+
 .p0-gt-xs {
 	padding: 0px;
 }
@@ -1579,6 +1627,22 @@
 }
 
 @media only screen and (min-width: 960px) and (max-width: 1279px) {
+
+.tr-md {
+	text-align: right;
+}
+
+.tl-md {
+	text-align: left;
+}
+
+.fl-md {
+	float: left;
+}
+
+.fr-md {
+	float: right;
+}
 
 .p0-md {
 	padding: 0px;
@@ -2108,6 +2172,22 @@
 
 @media only screen and (min-width: 960px) {
 
+.tr-gt-sm {
+	text-align: right;
+}
+
+.tl-gt-sm {
+	text-align: left;
+}
+
+.fl-gt-sm {
+	float: left;
+}
+
+.fr-gt-sm {
+	float: right;
+}
+
 .p0-gt-sm {
 	padding: 0px;
 }
@@ -2635,6 +2715,22 @@
 }
 
 @media only screen and (min-width: 1280px) and (max-width: 1919px) {
+
+.tr-lg {
+	text-align: right;
+}
+
+.tl-lg {
+	text-align: left;
+}
+
+.fl-lg {
+	float: left;
+}
+
+.fr-lg {
+	float: right;
+}
 
 .p0-lg {
 	padding: 0px;
@@ -3164,6 +3260,22 @@
 
 @media only screen and (min-width: 1280px) {
 
+.tr-gt-md {
+	text-align: right;
+}
+
+.tl-gt-md {
+	text-align: left;
+}
+
+.fl-gt-md {
+	float: left;
+}
+
+.fr-gt-md {
+	float: right;
+}
+
 .p0-gt-md {
 	padding: 0px;
 }
@@ -3691,6 +3803,38 @@
 }
 
 @media only screen and (min-width: 1920px) {
+
+.tr-xlg {
+	text-align: right;
+}
+
+.tr-gt-lg {
+	text-align: right;
+}
+
+.tl-xlg {
+	text-align: left;
+}
+
+.tl-gt-lg {
+	text-align: left;
+}
+
+.fl-xlg {
+	float: left;
+}
+
+.fl-gt-lg {
+	float: left;
+}
+
+.fr-xlg {
+	float: right;
+}
+
+.fr-gt-lg {
+	float: right;
+}
 
 .p0-xlg {
 	padding: 0px;
@@ -4744,6 +4888,22 @@
 
 @media only screen and (max-width: 1919px) {
 
+.tr-lt-lg {
+	text-align: right;
+}
+
+.tl-lt-lg {
+	text-align: left;
+}
+
+.fl-lt-lg {
+	float: left;
+}
+
+.fr-lt-lg {
+	float: right;
+}
+
 .p0-lt-lg {
 	padding: 0px;
 }
@@ -5271,6 +5431,22 @@
 }
 
 @media only screen and (max-width: 1279px) {
+
+.tr-lt-md {
+	text-align: right;
+}
+
+.tl-lt-md {
+	text-align: left;
+}
+
+.fl-lt-md {
+	float: left;
+}
+
+.fr-lt-md {
+	float: right;
+}
 
 .p0-lt-md {
 	padding: 0px;
@@ -5800,6 +5976,22 @@
 
 @media only screen and (max-width: 959px) {
 
+.tr-lt-sm {
+	text-align: right;
+}
+
+.tl-lt-sm {
+	text-align: left;
+}
+
+.fl-lt-sm {
+	float: left;
+}
+
+.fr-lt-sm {
+	float: right;
+}
+
 .p0-lt-sm {
 	padding: 0px;
 }
@@ -6327,6 +6519,22 @@
 }
 
 @media only screen and (max-width: 599px) {
+
+.tr-xs {
+	text-align: right;
+}
+
+.tl-xs {
+	text-align: left;
+}
+
+.fl-xs {
+	float: left;
+}
+
+.fr-xs {
+	float: right;
+}
 
 .p0-xs {
 	padding: 0px;

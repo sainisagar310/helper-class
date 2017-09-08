@@ -1,24 +1,19 @@
 {
   "name": "helper-class",
-  "version": "1.0.0",
-  "description": "Here is the helper css classes for padding margin and font size",
+  "version": "1.0.1",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sainisagar310/helper-class.git"
-  },
-  "keywords": [
-    "css",
-    "helper",
-    "classes"
-  ],
-  "author": "Sagar Saini / sainisagar310@gmail.com",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sainisagar310/helper-class/issues"
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-combine-media-queries": "^1.0.20",
+    "gulp-combine-media-queries": "^0.2.0"
   },
-  "homepage": "https://github.com/sainisagar310/helper-class#readme"
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
